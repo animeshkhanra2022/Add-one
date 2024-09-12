@@ -1,1 +1,6 @@
 aniemsh khanra
+
+Managing conflicts
+There is no magic button to resolve conflicts. You have to manually resolve the conflicts. Decide, what to keep and what to discard. VSCode has a built-in merge tool that can help you resolve the conflicts. I personally use VSCode merge tool. Github also has a merge tool that can help you resolve the conflicts but most of the time I handle them in VSCode and it gives me all the options to resolve the conflicts.
+
+Overall it sounds scary to beginners but it is not, it’s all about communication and understanding the code situation with your team members.
