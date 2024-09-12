@@ -1,1 +1,3 @@
 Hi, this is the new file called three 
+
+This is a fast-forward merge. It means that the commits in the bug-fix branch are directly merged into the main branch. This can be useful when you want to merge a branch that has already been pushed to the remote repository.
